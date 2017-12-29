@@ -1,17 +1,12 @@
-<<<<<<< HEAD
+
 # Hexadecimal-Sudoku-Solver-using-AI
 A Hexadecimal 16x16 Sudoku solver using Artificial Intelligence
 You can call the Sudoku Solver by calling the sudoku(input) function
 From HexaSudoku.py
-Input is a list of 256 characters from ‘-1’ to ‘F’ where ‘-1’ is 
+Input is a list of 256 characters from â€˜-1â€™ to â€˜Fâ€™ where â€˜-1â€™ is 
 An Empty cell
 Output is the Grid of solved Sudoku
 Automate.py runs an automated test from the automate.txt which contains
-A collection of multiple sudoku puzzles represented as 256 space separated characters from ‘-1’ to ‘F’ and each puzzle is separated by a empty line
+A collection of multiple sudoku puzzles represented as 256 space separated characters from â€˜-1â€™ to â€˜Fâ€™ and each puzzle is separated by a empty line
 Have Fun solving Sudoku !!! :D :D :D
 
-
-=======
-# Hexadecimal-Sudoku-Solver-using-AI
-A Hexadecimal 16X16 Sudoku solver using Artificial Intelligence
->>>>>>> 64dc350c095731042a55e294f55f96a711ec3d4b
