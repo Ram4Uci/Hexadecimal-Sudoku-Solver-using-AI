@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hexadecimal-Sudoku-Solver-using-AI
 A Hexadecimal 16x16 Sudoku solver using Artificial Intelligence
 You can call the Sudoku Solver by calling the sudoku(input) function
@@ -10,3 +11,7 @@ A collection of multiple sudoku puzzles represented as 256 space separated chara
 Have Fun solving Sudoku !!! :D :D :D
 
 
+=======
+# Hexadecimal-Sudoku-Solver-using-AI
+A Hexadecimal 16X16 Sudoku solver using Artificial Intelligence
+>>>>>>> 64dc350c095731042a55e294f55f96a711ec3d4b
